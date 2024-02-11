@@ -9,6 +9,9 @@ This project focuses on generating images of Pokemon using PyTorch, a powerful d
 
 - **PyTorch**: Utilized for the conception and implementation of various neural network architectures for image generation.
 
+**Usage:**  
+Execute the `python .\main_module.py` to generate images in the folder `generated`
+
 ## Dataset
 
 The dataset used in this project is the Pokemon dataset sourced from Kaggle. It contains images of various Pokemon species, which serve as the basis for generating new images.
